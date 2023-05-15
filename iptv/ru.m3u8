@@ -1,0 +1,157 @@
+#EXTM3U
+#EXTINF:-1 ,.black
+https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
+#EXTINF:-1 ,.red
+https://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
+#EXTINF:-1 ,.sci-fi
+https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8
+#EXTINF:-1 ,360°
+http://178.163.127.41:4022/udp/234.0.0.8:2000
+#EXTINF:-1 ,360° Новости
+https://okkotv-live.cdnvideo.ru/channel/360_Novosti_HD.m3u8
+#EXTINF:-1 ,A1
+http://178.163.127.41:4022/udp/234.0.0.155:2000
+#EXTINF:-1 ,A2
+https://okkotv-live.cdnvideo.ru/channel/A2_HD.m3u8
+#EXTINF:-1 ,Amedia 1
+https://okkotv-live.cdnvideo.ru/channel/A1_HD.m3u8
+#EXTINF:-1 ,Amedia Hit
+http://178.163.127.41:4022/udp/234.0.0.169:2000
+#EXTINF:-1 ,Bollywood
+http://178.163.127.41:4022/udp/234.0.0.195:2000
+#EXTINF:-1 ,Bridge TV
+http://178.163.127.41:4022/udp/234.0.0.180:2000
+#EXTINF:-1 ,Bridge TV Русский Хит
+http://178.163.127.41:4022/udp/234.0.0.179:2000
+#EXTINF:-1 ,FAN
+http://94.230.240.17:8080/fan/index.m3u8
+#EXTINF:-1 ,FilmBox
+http://94.230.240.17:8080/film_box/index.m3u8
+#EXTINF:-1 ,Galaxy
+http://178.163.127.41:4022/udp/234.0.0.111:2000
+#EXTINF:-1 ,JimJam
+http://178.163.127.41:4022/udp/234.0.0.152:2000
+#EXTINF:-1 ,MMA-TV.com
+http://94.230.240.17:8080/m1global/index.m3u8
+#EXTINF:-1 ,MusicBox Russia HD
+http://178.163.127.41:4022/udp/234.0.0.150:2000
+#EXTINF:-1 ,Nickelodeon
+http://178.163.127.41:4022/udp/234.0.0.153:2000
+#EXTINF:-1 ,RT Doc
+http://194.143.148.28:8080/RTD_HD/mpegts
+#EXTINF:-1 ,START Air
+https://okkotv-live.cdnvideo.ru/channel/START_Air_HD.m3u8
+#EXTINF:-1 ,START World
+https://okkotv-live.cdnvideo.ru/channel/START_World_HD.m3u8
+#EXTINF:-1 ,TiJi
+http://178.163.127.41:4022/udp/234.0.0.252:2000
+#EXTINF:-1 ,Trash HD
+http://178.163.127.41:4022/udp/234.0.0.3:2000
+#EXTINF:-1 ,TV XXI
+http://178.163.127.41:4022/udp/234.0.0.187:2000
+#EXTINF:-1 ,Большая Азия
+http://178.163.127.41:4022/udp/234.0.0.10:2000
+#EXTINF:-1 ,Губерния
+http://178.163.127.41:4022/udp/234.0.0.7:2000
+#EXTINF:-1 ,Драйв
+http://178.163.127.41:4022/udp/234.0.0.245:2000
+#EXTINF:-1 ,Загородная жизнь HD
+http://178.163.127.41:4022/udp/234.0.0.115:2000
+#EXTINF:-1 ,Загородный
+http://178.163.127.41:4022/udp/234.0.0.106:2000
+#EXTINF:-1 ,Звезда
+http://94.230.240.17:8080/zvezda/index.m3u8
+#EXTINF:-1 ,Звезда
+https://okkotv-live.cdnvideo.ru/channel/Zvezda_SD.m3u8
+#EXTINF:-1 ,Известия HD
+http://178.163.127.41:4022/udp/234.0.0.116:2000
+#EXTINF:-1 ,Калейдоскоп ТВ
+http://178.163.127.41:4022/udp/234.0.0.1:2000
+#EXTINF:-1 ,Канал Disney
+https://okkotv-live.cdnvideo.ru/channel/Disney.m3u8
+#EXTINF:-1 ,Карусель
+http://94.230.240.17:8080/karusel/index.m3u8
+#EXTINF:-1 ,Кухня ТВ
+http://178.163.127.41:4022/udp/234.0.0.241:2000
+#EXTINF:-1 ,Мама
+http://178.163.127.41:4022/udp/234.0.0.101:2000
+#EXTINF:-1 ,Матч! Игра
+http://178.163.127.41:4022/udp/234.0.0.211:2000
+#EXTINF:-1 ,МИР
+http://94.230.240.17:8080/mir/index.m3u8
+#EXTINF:-1 ,МИР
+https://okkotv-live.cdnvideo.ru/channel/Mir_OTT.m3u8
+#EXTINF:-1 ,Мир сериала
+http://178.163.127.41:4022/udp/234.0.0.103:2000
+#EXTINF:-1 ,Москва 24
+http://178.163.127.41:4022/udp/234.0.0.194:2000
+#EXTINF:-1 ,МузТВ
+http://94.230.240.17:8080/muztv/index.m3u8
+#EXTINF:-1 ,МузТВ
+https://okkotv-live.cdnvideo.ru/channel/MuzTV.m3u8
+#EXTINF:-1 ,Мультиландия
+https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD.m3u8
+#EXTINF:-1 ,Мультиландия
+http://178.163.127.41:4022/udp/234.0.0.210:2000
+#EXTINF:-1 ,Ностальгия
+http://178.163.127.41:4022/udp/234.0.0.190:2000
+#EXTINF:-1 ,НТВ
+http://94.230.240.17:8080/ntv/index.m3u8
+#EXTINF:-1 ,Открытый мир
+http://178.163.127.41:4022/udp/234.0.0.238:2000
+#EXTINF:-1 ,ОТР
+http://94.230.240.17:8080/otp/index.m3u8
+#EXTINF:-1 ,Охота и рыбалка
+http://178.163.127.41:4022/udp/234.0.0.230:2000
+#EXTINF:-1 ,Охотник и рыболов HD
+http://178.163.127.41:4022/udp/234.0.0.98:2000
+#EXTINF:-1 ,Первый HD
+http://178.163.127.41:4022/udp/234.0.0.172:2000
+#EXTINF:-1 ,Первый канал
+http://94.230.240.17:8080/ort/index.m3u8
+#EXTINF:-1 ,Пёс и Ко
+http://178.163.127.41:4022/udp/234.0.0.188:2000
+#EXTINF:-1 ,ПЯТНИЦА!
+http://94.230.240.17:8080/friday/index.m3u8
+#EXTINF:-1 ,Пятый канал
+http://94.230.240.17:8080/5kanal/index.m3u8
+#EXTINF:-1 ,Пятый канал
+https://okkotv-live.cdnvideo.ru/channel/5_OTT.m3u8
+#EXTINF:-1 ,Родное Кино
+http://178.163.127.41:4022/udp/234.0.0.177:2000
+#EXTINF:-1 ,РОССИЯ 1
+http://94.230.240.17:8080/rossia1/index.m3u8
+#EXTINF:-1 ,Россия 24
+https://okkotv-live.cdnvideo.ru/channel/Russia24.m3u8
+#EXTINF:-1 ,РОССИЯ 24
+http://94.230.240.17:8080/rossia24/index.m3u8
+#EXTINF:-1 ,Россия К
+http://94.230.240.17:8080/kultura/index.m3u8
+#EXTINF:-1 ,Россия К
+https://okkotv-live.cdnvideo.ru/channel/Russia_K_SD.m3u8
+#EXTINF:-1 ,Рыжий
+http://178.163.127.41:4022/udp/234.0.0.243:2000
+#EXTINF:-1 ,Сарафан
+http://178.163.127.41:4022/udp/234.0.0.246:2000
+#EXTINF:-1 ,Совершенно секретно
+http://178.163.127.41:4022/udp/234.0.0.185:2000
+#EXTINF:-1 ,СПАС
+http://94.230.240.17:8080/spas/index.m3u8
+#EXTINF:-1 ,СПАС
+https://okkotv-live.cdnvideo.ru/channel/Spas.m3u8
+#EXTINF:-1 ,СТС Love
+https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
+#EXTINF:-1 ,ТВ Центр
+http://94.230.240.17:8080/tvcentr/index.m3u8
+#EXTINF:-1 ,Телекафе
+http://178.163.127.41:4022/udp/234.0.0.249:2000
+#EXTINF:-1 ,ТНТ
+http://94.230.240.17:8080/tnt/index.m3u8
+#EXTINF:-1 ,Усадьба
+http://94.230.240.17:8080/usadba/index.m3u8
+#EXTINF:-1 ,Успех
+http://178.163.127.41:4022/udp/234.0.0.117:2000
+#EXTINF:-1 ,Че!
+https://okkotv-live.cdnvideo.ru/channel/Che_OTT_2.m3u8
+#EXTINF:-1 ,Ю
+https://okkotv-live.cdnvideo.ru/channel/Yu_OTT.m3u8

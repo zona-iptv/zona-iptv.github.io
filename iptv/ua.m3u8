@@ -1,0 +1,229 @@
+#EXTM3U
+#EXTINF:-1 ,1 Автомобыльний
+http://85.223.221.130:8000/play/a04h
+#EXTINF:-1 ,1+1 HD
+http://91.146.94.234:10001/play/a04i
+#EXTINF:-1 ,100% News (Одесса)
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1 ,2+2
+http://91.146.94.234:10001/play/a04r
+#EXTINF:-1 ,24 Канал
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
+#EXTINF:-1 ,4 КАНАЛ HD
+http://portal.ott.pink/watch/6987/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,5 Канал
+http://portal.ott.pink/watch/7/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,7 канал
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod/playlist.m3u8
+#EXTINF:-1 ,7 канал (Одесса)
+http://92.46.127.146:8080/7Channel/index.m3u8
+#EXTINF:-1 ,Bambarbia TV
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-720p/playlist.m3u8
+#EXTINF:-1 ,Bambarbia TV
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
+#EXTINF:-1 ,D1
+http://portal.ott.pink/watch/7494/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,Epoque UA
+http://85.223.221.130:8000/play/a081
+#EXTINF:-1 ,EWTN
+https://d3j0n5al39mfyd.cloudfront.net/ewtn/ukraine_1280x720_3300k.m3u8
+#EXTINF:-1 ,Fauna
+http://85.223.221.130:8000/play/a063
+#EXTINF:-1 ,FREEДОМ
+http://portal.ott.pink/watch/7431/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,FREEДОМ
+https://cdnua03.hls.tv/178/hls/3ce9832c48b67915e9f2769b2dfbb005/91/stream.m3u8
+#EXTINF:-1 ,ICTV
+http://91.146.94.234:10001/play/a04k
+#EXTINF:-1 group-title="Украина",ICTV
+http://51.15.176.84/hls/ictv-ch/index.m3u8
+#EXTINF:-1 ,ICTV HD
+http://portal.ott.pink/watch/13/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,ICTV Ukraine
+http://myott.top/stream/12VMR6WFD7/368.m3u8
+#EXTINF:-1 ,InRating TV
+https://inrating-tv.cdn-04.cosmonova.net.ua/hls/inrating-tv_ua_hi/index.m3u8
+#EXTINF:-1 ,ITV (Рівне)
+http://cdn10.live-tv.od.ua:8081/itvrv/abr-lq/playlist.m3u8
+#EXTINF:-1 ,ITV HD
+http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
+#EXTINF:-1 ,I-UA TV HD
+http://kie2.cdn.i-ua.tv/hlsme/iuatv_1080p.m3u8
+#EXTINF:-1 ,Pеноме
+http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
+#EXTINF:-1 ,Teрpa
+http://85.223.221.130:8000/play/a08c
+#EXTINF:-1 ,TV Запорожье
+http://stream.ztv.zp.ua/hls/live.m3u8
+#EXTINF:-1 ,TVA
+http://portal.ott.pink/watch/117/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,UA
+http://portal.ott.pink/watch/6972/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,Xsport
+http://91.146.94.234:10001/play/a059
+#EXTINF:-1 ,Аверс
+http://portal.ott.pink/watch/356/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,Аверс (Луцьк)
+https://avers.pp.ua/hls/efir.m3u8
+#EXTINF:-1 ,Апостроф TV
+http://portal.ott.pink/watch/7485/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,Армія ТВ HD
+http://portal.ott.pink/watch/7572/index.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,Балта ТВ HD
+http://194.50.51.34/playlist.m3u8
+#EXTINF:-1 ,Белгород 24
+http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
+#EXTINF:-1 ,БелРос
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1 ,БелРос
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8?q=zi/
+#EXTINF:-1 ,Белсат HD
+http://portal.ott.pink/watch/149/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,Галичина HD
+http://portal.ott.pink/watch/116/index.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,ГІТ (Волинь)
+http://stream.uagit.tv/gittv.m3u8
+#EXTINF:-1 ,Глас
+http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
+#EXTINF:-1 ,ГРОМАДСЬКЕ ІНТЕРАКТИВНЕ ТЕЛЕБАЧЕННЯ (Луцьк)
+https://stream.uagit.tv/gittv.m3u8
+#EXTINF:-1 ,Дача
+http://85.223.221.130:8000/play/a07a
+#EXTINF:-1 ,Дніпро TV HD
+http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
+#EXTINF:-1 ,Думская TV HD (Одесса)
+http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/playlist.m3u8
+#EXTINF:-1 ,Думская ТВ
+http://cdn1.live-tv.od.ua:8081/dumska/dumska720p/playlist.m3u8
+#EXTINF:-1 ,Еспресо HD
+http://portal.ott.pink/watch/10/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,Закон-ТВ HD
+http://portal.ott.pink/watch/7506/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,Известия ТВ FHD
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 ,ИТ3 (Черноморск)
+http://cdn10.live-tv.od.ua:8081/it3od/it3od-abr-lq/playlist.m3u8
+#EXTINF:-1 ,ИТ3 HD
+http://cdn10.live-tv.od.ua:8081/it3od/it3od-abr/playlist.m3u8
+#EXTINF:-1 ,Ізмаіл ТВ
+http://cdn10.live-tv.od.ua:8081/izod/izod/playlist.m3u8
+#EXTINF:-1 ,Інтер
+http://portal.ott.pink/watch/7316/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,ІТ3
+http://cdn10.live-tv.od.ua:8081/it3od/720p/playlist.m3u8
+#EXTINF:-1 ,ІТ3 (Чорноморськ)
+http://cdn10.live-tv.od.ua:8081/it3od/720p/chunks.m3u8
+#EXTINF:-1 ,КАНАЛ 24 HD
+http://portal.ott.pink/watch/324/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,Квартал ТВ
+http://85.223.221.130:8000/play/a076
+#EXTINF:-1 ,Круг (Одеса)
+http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr-lq/playlist.m3u8
+#EXTINF:-1 ,КТК
+http://89.218.30.37/ktklive/live.hq/playlist.m3u8
+#EXTINF:-1 ,Львивська Хвиля (Радио)
+http://onair.lviv.fm:8000/lviv.fm
+#EXTINF:-1 ,М1
+http://91.146.94.234:10001/play/a052
+#EXTINF:-1 ,Мега
+http://91.146.94.234:10001/play/a04u
+#EXTINF:-1 ,Миллет (Симферополь)
+http://live.trkmillet.ru/millet/index.m3u8
+#EXTINF:-1 ,Надежда
+http://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:-1 ,Надія
+http://nadiya.home-net.com.ua/mob/mystream.m3u8?q=zi/
+#EXTINF:-1 ,Наука
+http://85.223.221.130:8000/play/a064
+#EXTINF:-1 ,Новий канал
+http://91.146.94.234:10001/play/a04o
+#EXTINF:-1 ,НТК
+http://stream.ntktv.ua/s/ntk/ntk.m3u8
+#EXTINF:-1 ,НТК Коломия
+https://stream.ntktv.ua/s/ntk/ntk.m3u8
+#EXTINF:-1 ,НТМ (Мордовия)
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:-1 ,НТН
+http://91.146.94.234:10001/play/a04t
+#EXTINF:-1 ,Одесса
+http://85.238.112.69:8811/hls_sec/239.4.228.28-.m3u8
+#EXTINF:-1 ,ОНТ Одеса
+http://85.238.112.40:8810/hls_sec/239.1.75.33-.m3u8
+#EXTINF:-1 ,ОНТ Одесса
+http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+#EXTINF:-1 ,Первый Городской (Кривой Рог)
+http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr/playlist.m3u8
+#EXTINF:-1 ,Первый городской (Одесса)
+http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr/playlist.m3u8
+#EXTINF:-1 ,Первый Городской (Одесса)
+http://cdn1.live-tv.od.ua:8081/1tvod/1tvod/playlist.m3u8
+#EXTINF:-1 ,Первый городской Кривий Ріг
+http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/playlist.m3u8
+#EXTINF:-1 ,Первый Городской Одесса
+http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr-lq/playlist.m3u8
+#EXTINF:-1 ,Перший
+http://91.146.94.234:10001/play/a04d
+#EXTINF:-1 ,ПЕРШИЙ АВТОМОБІЛЬНИЙ HD
+http://95.67.12.89:9035
+#EXTINF:-1 ,Піксель
+http://91.146.94.234:10001/play/a057
+#EXTINF:-1 ,Плюс (Одесса)
+http://85.238.112.69:8811/hls_sec/239.0.14.15-.m3u8
+#EXTINF:-1 ,Полтавское ТВ
+http://cdn10.live-tv.od.ua:8081/hrpl/720p/playlist.m3u8
+#EXTINF:-1 ,Правда ТУТ
+http://95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1 ,Правда ТУТ HD (Київ)
+http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1 ,Прямий HD
+http://portal.ott.pink/watch/14/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,Прямый
+http://95.67.21.100/hls/prm_ua_hi/index.m3u8
+#EXTINF:-1 ,Рада
+http://portal.ott.pink/watch/7418/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,Сварожичи ТВ
+http://tv.tv-project.com:1935/live/live1/playlist.m3u8
+#EXTINF:-1 ,Сварожичи ТВ UA HD
+http://80.91.177.102:1935/live/live1/playlist.m3u8
+#EXTINF:-1 ,СК1 (Житомир)
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr-lq/playlist.m3u8
+#EXTINF:-1 ,СК1 СК1 (Житомир)
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
+#EXTINF:-1 ,СТБ HD
+http://91.146.94.234:10001/play/a04l
+#EXTINF:-1 ,Суспільне Київ HD
+http://portal.ott.pink/watch/7592/index.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,Сфера ТВ
+http://cdn10.live-tv.od.ua:8081/sferarv/720p/playlist.m3u8
+#EXTINF:-1 ,ТВА
+http://hls.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1 ,ТВА
+http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8
+#EXTINF:-1 ,ТВА
+http://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1 ,Тернопiль 1 HD
+http://ott.columbus.te.ua/ternopil1/index.m3u8
+#EXTINF:-1 ,Тернополь 1
+http://185.53.79.12/ternopil1/index.m3u8
+#EXTINF:-1 ,ТЕТ
+http://91.146.94.234:10001/play/a04p
+#EXTINF:-1 ,ТИС-ТВ (Одесса)
+http://cdn10.live-tv.od.ua:8081/riood/tisod-abr-lq/playlist.m3u8
+#EXTINF:-1 ,ТІМ Прилуки
+http://194.242.100.24:6666
+#EXTINF:-1 ,ТРК Надія - Новий Канал (Первомайский)
+http://178.217.215.57/mob/mystream.m3u8
+#EXTINF:-1 ,Трофей
+http://85.223.221.130:8000/play/a066
+#EXTINF:-1 ,УКРАИІНА
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/playlist.m3u8
+#EXTINF:-1 ,Уніaн
+http://portal.ott.pink/watch/236/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,Чернiвецький Промiнь
+http://portal.ott.pink/watch/131/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,Чернівецький Промінь HD
+http://langate.tv/promin/live_720/index.m3u8
+#EXTINF:-1 ,Шансон ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
+#EXTINF:-1 ,Эхо TV
+http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8

@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:-1 ,Fight-Sports
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index_2.m3u8
+#EXTINF:-1 group-title="Спорт",KHL Prime
+http://srv1.roshen.live/qbLbsDX9Mc/mpegts?token=Ibaa24rw8OhpevN6
+#EXTINF:-1 ,MMA Jankie HD
+http://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
+#EXTINF:-1 ,Motor Racing
+https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
+#EXTINF:-1 ,MySports 1 HD
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
+#EXTINF:-1 ,Qazsport KZ
+http://92.46.127.146:8080/qazsport/index.m3u8
+#EXTINF:-1 ,Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 group-title="Спорт",Setanta Sports 1
+http://srv1.roshen.live/aD3sl16N6p/mpegts?token=Ibaa24rw8OhpevN6
+#EXTINF:-1 group-title="Спорт",Setanta Sports 2
+http://srv1.roshen.live/cfzVPk0ujI/mpegts?token=Ibaa24rw8OhpevN6
+#EXTINF:-1 group-title="Спорт",Setanta Sports Ukraine
+http://srv1.roshen.live/tFdUsOAQcE/mpegts?token=Ibaa24rw8OhpevN6
+#EXTINF:-1 group-title="Спорт",Setanta Sports+ Ukraine
+http://srv1.roshen.live/h2olpt6ItU/mpegts?token=Ibaa24rw8OhpevN6
+#EXTINF:-1 ,Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 ,Turkmen Sport HD
+http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 ,Viasat Sport HD
+https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 ,Viasat Sport HD
+https://sc.id-tv.kz/ViasatSport.m3u8
+#EXTINF:-1 ,БОКС ТВ
+https://sc.id-tv.kz/BoksTV.m3u8
+#EXTINF:-1 ,Конный Мир
+https://bl.uma.media/live/400930/HLS/4614144_3/1/1/playlist.m3u8
+#EXTINF:-1 ,КХЛ
+https://sc.id-tv.kz/FHD_KHL.m3u8
+#EXTINF:-1 ,МАТЧ ТВ H
+https://livetv.mylifeisgood.ml/channels/matchhd_nocensored
+#EXTINF:-1 ,МАТЧ ТВ!
+https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! HD
+http://srv1.roshen.live/VUcn8l6dxm/mpegts?token=Ibaa24rw8OhpevN6
+#EXTINF:-1 ,Матч! HD
+https://bl.uma.media/live/407384/HLS/6307840_7/2/1/playlist.m3u8
+#EXTINF:-1 ,Матч! Арена
+https://livetv.mylifeisgood.ml/channels/matcharenahd
+#EXTINF:-1 ,Матч! Боец
+https://livetv.mylifeisgood.ml/channels/matchboew
+#EXTINF:-1 ,Матч! Игра
+https://livetv.mylifeisgood.ml/channels/matchigra
+#EXTINF:-1 ,Матч! Планета
+https://sc.id-tv.kz/MatchPlaneta.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Премьер HD
+http://srv1.roshen.live/ruJ3OSf65E/mpegts?token=Ibaa24rw8OhpevN6
+#EXTINF:-1 ,МАТЧ! СТРАНА
+https://bl.uma.media/live/291661/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 ,МАТЧ! СТРАНА
+https://livetv.mylifeisgood.ml/channels/matchstrana
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 1 HD
+http://srv1.roshen.live/jrTXWkg7Mx/mpegts?token=Ibaa24rw8OhpevN6
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 2 HD
+http://srv1.roshen.live/3cd3wPhi2V/mpegts?token=Ibaa24rw8OhpevN6
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 3 HD
+http://srv1.roshen.live/P9nijBsfaT/mpegts?token=Ibaa24rw8OhpevN6
+#EXTINF:-1 group-title="Спорт",Футбольный
+http://srv1.roshen.live/Eo9ywaYRn2/mpegts?token=Ibaa24rw8OhpevN6
+#EXTINF:-1 group-title="Спорт",Хоккейный HD
+http://srv1.roshen.live/ZwhFEOoTmU/mpegts?token=Ibaa24rw8OhpevN6
