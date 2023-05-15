@@ -1,0 +1,165 @@
+@charset "utf-8";
+
+/**
+* Custom css
+* http://zona-iptv.ru
+*/
+
+* {
+  margin:0;
+  padding:0;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+html, body {
+  box-sizing:border-box;
+  height:100%;
+  min-width:280px;
+  background-color: #fff;
+  color:#333;
+/*  font-family: 'Roboto', sans-serif; */
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 16px;
+  font-weight:400;
+  line-height:1.5;
+}
+
+body {
+    background-color: #fff;
+}
+
+a {
+  text-decoration: none;
+  color: blue;
+  transition: 0.2s ease-out;
+}
+
+/*
+a:visited {
+  color: #212121;
+}
+*/
+
+img {
+  display: inline-block;
+}
+
+header, footer, nav, article {
+  display: block;
+}
+
+h1 {
+    margin: 1.0rem 0 0 0;
+    font-size: 2rem;
+}
+h2 {
+    margin: 0.75rem 0 0 0;
+    font-size: 1.5rem;
+}
+h3 {
+    font-weight: bold;
+    font-size: 1.0rem;
+}
+p {
+    font-size: 1.0rem;
+}
+ul {
+    font-size: 1.0rem;
+    list-style-position: inside;
+}
+
+@media (max-width: 800px) {
+  h1 {
+    font-size: 1.5rem;
+  }
+  h2 {
+    font-size: 1.25rem;
+  }
+  h3 {
+    font-weight: bold;
+    font-size: 1.0rem;
+  }
+  p {
+    font-size: 1.0rem;
+  }
+  ul {
+    font-size: 0.75rem;
+    list-style-position: inside;
+  }
+}
+
+/* ################################# HEADER ################################# */
+
+header {
+    display: block;
+    width: 100%;
+    background-color: #000;}
+
+header p.logo {
+  color: #fff;
+  font-size: 2.5rem; /*32px;*/}
+
+header p.slogan {
+  color: #fff;
+  font-size: 1.5rem;}
+
+header a.logo {
+  text-decoration: none;}
+
+@media (max-width: 800px) {
+  header p.logo {
+    color: #ff0;
+    font-size: 2rem;}
+
+  header p.slogan {
+    color: red;
+    font-size: 1rem;}}
+
+/* ################################# GRID ################################# */
+.container {
+  max-width: 960px; /*1140px;*/
+  min-width: 280px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px;
+}
+main {
+    background: white;
+    padding: 25px;
+    border: 1px solid #efefef;
+}
+.content-area {
+    display: block;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.article__title {
+    font-family: Montserrat,sans-serif;
+    font-size: 24px;
+    line-height: 32px;
+    font-weight: 600;
+    margin-top: 0;
+    margin-bottom: 24px;
+}
+@media only screen and (min-width: 680px) {
+  .article__title {
+    font-size: 36px;
+    line-height: 48px;
+    margin-bottom: 32px;
+  }}
+.footer-bottom {
+    position: relative;
+    max-width: 970px;
+    margin: 0 auto;
+    padding-top: 50px;
+    background-color: #000;
+    color: #fff;
+    padding: 1.5rem;
+}
+.footer-info {
+    font-size: 14px;
+    padding-left: 2rem;
+}
