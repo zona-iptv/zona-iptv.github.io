@@ -1,104 +1,60 @@
-<!doctype html>
-<html lang="ru">
+<!DOCTYPE html>
+<html lang="en">
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="play m3u8 HTTP Live Streaming (HLS)">
-    <meta name="author" content="zona-iptv.github.io">
-    <meta name="generator" content="zona-iptv.github.io">
-    <meta http-equiv="imagetoolbar" content="no">
-    <link href="/img/favicon.png" rel="shortcut icon" type="image/x-icon">
-    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-    <title>zona-iptv.github.io</title>
-    
-    <!-- Bootstrap core CSS -->
-    <link rel="stylesheet" href="/css/bootstrap.min.css"/>
-
-
-    <!-- Custom styles for this template -->
-    <link href="/css/custom.css" rel="stylesheet">
-
+<title>M3U8 Player - HLSPlayer</title>
+<LINK REL="SHORTCUT ICON" href="../avatar brigante.jpg">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1251">
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="description" content="This page allows you to play M3U8/HLS streams online with no installation required.">
+<meta name="keywords" content="m3u8 player, m3u8 online streaming player, play M3U8/HLS streams online, play HLS urls in-browser, hls player, m3u8, hls">
+<link type="text/css" rel="stylesheet" href="../css/main.css" />
 </head>
-
 <body>
-<div class="bg-dark">
-    <header class="container narrow py-3">
-        <div class="d-flex justify-content-between align-items-center">
-            <div>
-                <img src="/img/logo.png" style="width:48px;"/>
-                <a href="https://zona-iptv.github.io/">zona-iptv.github.io</a>
-            </div>
-                    </div>
-    </header>
-</div>
 
-<main role="main" class="container narrow mt-5">
-    <div class="row">
-        <div class="col-md-12 blog-main">
+<script src="http://tools.eti.pw/m3u8-player-online/jquery-1.10.2.min.js"></script>
+<script type='text/javascript' src='http://tools.eti.pw/m3u8-player-online/clappr.min.js?ver=123'></script>
+<script src="http://tools.eti.pw/m3u8-player-online/jquery.ba-throttle-debounce.min.js"></script>
+<script src="http://tools.eti.pw/m3u8-player-online/jwplayer.js"></script>
+<script>
+$.ajaxSetup({
+cache: false
+});
+</script>
 
-            <div class="blog-post">
-                <h2 class="blog-post-title mb-3">HLS Player - m3u8 Streaming Player</h2>
-                <p>HLS Player a chrome extention which implements an HTTP Live Streaming client. You can play .m3u8 HTTP
-                    Live Streaming (HLS) . It relies on HTML5 video and MediaSource Extensions for playback.
+<div id="jsonploader"></div>
 
-                    It works by transmuxing MPEG-2 Transport Stream and AAC/MP3 streams into ISO BMFF (MP4) fragments.
-                    This transmuxing could be performed asynchronously using Web Worker if available in the browser. It
-                    also supports HLS + fmp4, as announced during WWDC2016</p>
+<a href="../">Free Online Tools</a>
 
-                <hr>
-                <p>&nbsp;</p>
+<h2>Play HLS m3u8</h2>
 
-                <h3>Create m3u8 stream url tag</h3>
-                <p>
-                <form name="frm1" id="frm1" action="https://zona-iptv.github.io/action" method="method" target="_blank">
-                    <div id="url_section" name="url_section">
-                        m3u8 URL <input type="text" name="url" id="url" value="https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8" style="width:100%"/>
-                        <input type="submit" name="btn_play" id="btn_play" value="Play"/>
-                    </div>
-                </form>
-                </p>
+This page allows you to play M3U8/HLS streams online with no installation required. Play HLS urls in-browser.<br><br>
 
-                ex: <a href="https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8" target="_blank">https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8</a>
-                <p>&nbsp;</p>
+<form method="GET" action="">
+<input name="url" id="url" title="Put URL here" placeholder="playlist.m3u8" required />
+<input type="submit" class="button" value="PLAY" title="Go!" />
+</form>
+
+<br />e.g. http://www.example.com/live/playlist.m3u8<br />
+<br />
+What is HLS?<br />
+<br />
+HTTP Live Streaming (HLS) is an HTTP-based media streaming communications protocol implemented by Apple Inc. as part of its QuickTime, Safari, OS X, and iOS software. It works by breaking the overall stream into a sequence of small HTTP-based file downloads, each download loading one short chunk of an overall potentially unbounded transport stream.<br />
+<br />
+What is M3U8?<br />
+<br />
+M3U8 is a computer file format that contains multimedia playlists. A m3u8 file specifies the locations of one or more media files, rather than the video itself. Therefore, a HLS player is required to download and play the actual video files.
+<hr />
 
 
-                <div class="row d-flex justify-content-center"></div>
+<br />
 
-                <h3>Main function</h3>
-                <ul>
-                    <li>Play HTTP Live Streaming (HLS)</li>
-                    <li>Play '.m3u8' files</li>
-                    <li>All free software</li>
-                    <li>Support Chrome, IE, Safari, etc over 100s browsers.</li>
-                    <li>No AD</li>
-                </ul>
-                <p>&nbsp;</p>
+<span><a href="########" target="_blank" title="Free Web Design and Free Web Hosting">ETI 2023</a></span><br />
 
-                <h3>Chrome Extension</h3>
-                <ul>
-                    <li>
-                        <a href="https://chrome.google.com/webstore/detail/hls-player-m3u8-streaming/eakdijdofmnclopcffkkgmndadhbjgka" target="_blank">https://chrome.google.com/webstore/detail/hls-player-m3u8-streaming/eakdijdofmnclopcffkkgmndadhbjgka</a>
-                    </li>
-                </ul>
-                <p>&nbsp;</p>
+<span style="font-family: verdana,arial,helvetica; font-size: 10px; font-weight: bold; color: #0AF2F2;"><font color=red>2</font> online</span>
+<!-- HitWebCounter Code START -->
+<img src="http://hitwebcounter.com/counter/counter.php?page=5296414&style=0007&nbdigits=5&type=ip&initCount=1" title="Free Web Counter - Unique visits" border="0" >
+<!-- HitWebCounter Code END -->
 
-                <h3>Contact</h3>
-                <p>Contact to talk about your requirements. <a href="/cdn-cgi/l/email-protection#751d19060519140c10071d101905351218141c195b161a18"><span class="__cf_email__" data-cfemail="aac2c6d9dac6cbd3cfd8c2cfc6daeacdc7cbc3c684c9c5c7">[email&#160;protected]</span></a>
-                </p>
-            </div><!-- /.blog-post -->
-
-        </div><!-- /.blog-main -->
-
-    </div><!-- /.row -->
-
-</main><!-- /.container -->
-
-<!--
-################################################
--->
-
-<footer class="blog-footer">
-    <p>Copyright © 2023 HLSPlayer.</p>
-</footer>
-<script data-cfasync="false" src="/js/email-decode.min.js"></script></body>
+</body>
 </html>
